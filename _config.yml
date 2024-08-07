@@ -21,7 +21,7 @@ repository               : "chinaciv/chinaciv.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "logo.png"
+  avatar           : "logo.png"
   name             : "ChinaCiV 2024"
   pronouns         : # example: "she/her"  
   bio              : "中国计算成像与视觉大会"
