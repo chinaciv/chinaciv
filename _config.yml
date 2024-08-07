@@ -12,7 +12,7 @@ title                    : "中国计算成像与视觉大会（ChinaCiV）"
 title_separator          : "-"
 name                     : &name "中国计算成像与视觉大会（ChinaCiV）"
 description              : &description "中国计算成像与视觉大会"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://chinaciv.github.io/chinaciv/"
+url                      : https://chinaciv.github.io # the base hostname & protocol for your site e.g. "https://chinaciv.github.io/chinaciv/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chinaciv/chinaciv.github.io"
 
